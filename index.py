@@ -1,13 +1,14 @@
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
-
+import dash
 # Connect to main app.py file
 from app import app
 
 # Connect to your app pages
 from apps import chart1,chart2,chart3,chart4,chart5,chart6,startpage
-
+app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
