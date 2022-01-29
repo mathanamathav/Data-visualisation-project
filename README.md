@@ -6,10 +6,10 @@ An online **Python** dashboard that tracks power consumption in India from 2019 
 
 
 ![CPT2201292201-1264x524](https://user-images.githubusercontent.com/62739618/151668986-d29f215b-7e20-46c9-a825-a42186f2c785.gif)
-*Preview from the graph*
+*Preview from the website*
 
 ___
 ![CPT2201292158-1264x524](https://user-images.githubusercontent.com/62739618/151668889-cee2b322-27b6-4a22-bdc5-09e980149757.gif)
-*Preview from the graph*
+*Preview from the website*
 ____
 
